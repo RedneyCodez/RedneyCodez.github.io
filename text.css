@@ -1,0 +1,54 @@
+body {
+    background-image: url(https://static.wikia.nocookie.net/skullgirls/images/1/19/MCStage_002.png/revision/latest/smart/width/250/height/250?cb=20170709193843); 
+    background-repeat: no-repeat;
+    background-position: middle;
+    background-size: cover;
+}
+h1 {
+    color: #dfdada;
+}
+h2 {
+    color:#dfdada; 
+}
+p {
+    color:#dfdada
+}
+div {
+    color:#dfdada; 
+}
+ul {
+    color: #dfdada;
+}
+h1 {
+    font-size: 120px;
+}
+h2 {
+    font-size: 50px;
+}
+h3 {
+    font-size: 50px;
+}
+p {
+    font-size: 45px;
+}
+div {
+    font-size: 50px; 
+}
+ul {
+    font-size: 40px;
+}
+ol {
+    font-size:30px;
+}
+h1 {
+    font-family: 'Papyrus' , fantasy;
+}
+h2 {
+    font-family: 'Papyrus' , fantasy;
+}
+h3 {
+    font-family: 'Papyrus' , fantasy;
+}
+p {
+    font-family: 'Papyrus' , fantasy;
+}

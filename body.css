@@ -1,0 +1,76 @@
+body {
+    background-image: url(https://i.pinimg.com/736x/01/54/d0/0154d00769760aee6fa2bbae0cb5fd96.jpg); 
+    background-repeat: no-repeat;
+    background-position: middle;
+    background-size: cover;
+}
+h1 {
+    color: #e7d8d8;
+}
+h2 {
+    color:#e7d8d8; 
+}
+h3 {
+    color:#e7d8d8
+}
+p {
+    color: #f0e4e4
+}
+div {
+    color: #e7d8d8; 
+}
+div {
+    background-color: black;
+}
+ul {
+    color:  #e7d8d8;
+}
+h1{
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+h1 {
+    font-size: 150px;
+}
+h2 {
+    font-size: 50px;
+}
+h3 {
+    font-size: 50px;
+}
+p {
+    font-size: 60px;
+}
+div {
+    font-size: 50px; 
+}
+ul {
+    font-size: 40px;
+}
+ol {
+    font-size:30px;
+}
+
+h1 {
+    font-family: 'Papyrus' , fantasy;
+}
+h2 {
+    font-family: 'Papyrus' , fantasy;
+}
+h3 {
+    font-family: 'Papyrus' , fantasy;
+}
+p {
+    font-family: 'Papyrus' , fantasy;
+}
+a:visited{
+    color: rgb(240, 81, 200);
+}
+a:hover {
+    color:aquamarine;
+}
